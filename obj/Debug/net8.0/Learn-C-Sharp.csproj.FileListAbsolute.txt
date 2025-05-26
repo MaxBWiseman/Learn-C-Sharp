@@ -1,0 +1,15 @@
+/workspaces/Learn-C-Sharp/bin/Debug/net8.0/Learn-C-Sharp
+/workspaces/Learn-C-Sharp/bin/Debug/net8.0/Learn-C-Sharp.deps.json
+/workspaces/Learn-C-Sharp/bin/Debug/net8.0/Learn-C-Sharp.runtimeconfig.json
+/workspaces/Learn-C-Sharp/bin/Debug/net8.0/Learn-C-Sharp.dll
+/workspaces/Learn-C-Sharp/bin/Debug/net8.0/Learn-C-Sharp.pdb
+/workspaces/Learn-C-Sharp/obj/Debug/net8.0/Learn-C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Learn-C-Sharp/obj/Debug/net8.0/Learn-C-Sharp.AssemblyInfoInputs.cache
+/workspaces/Learn-C-Sharp/obj/Debug/net8.0/Learn-C-Sharp.AssemblyInfo.cs
+/workspaces/Learn-C-Sharp/obj/Debug/net8.0/Learn-C-Sharp.csproj.CoreCompileInputs.cache
+/workspaces/Learn-C-Sharp/obj/Debug/net8.0/Learn-C-Sharp.sourcelink.json
+/workspaces/Learn-C-Sharp/obj/Debug/net8.0/Learn-C-Sharp.dll
+/workspaces/Learn-C-Sharp/obj/Debug/net8.0/refint/Learn-C-Sharp.dll
+/workspaces/Learn-C-Sharp/obj/Debug/net8.0/Learn-C-Sharp.pdb
+/workspaces/Learn-C-Sharp/obj/Debug/net8.0/Learn-C-Sharp.genruntimeconfig.cache
+/workspaces/Learn-C-Sharp/obj/Debug/net8.0/ref/Learn-C-Sharp.dll
