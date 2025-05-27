@@ -65,6 +65,24 @@ namespace HelloWorld
                                      // The decimal type is used for financial
                                      // calculations where precision is important,
                                      // such as currency calculations.
+
+      // Boolean Literals
+      // A boolean literal is either true or false.
+      bool isTrue = true;
+      // or
+      Console.WriteLine(false);
+
+      // Data types play a central role in C#. In fact, the emphasis on data
+      // types is one of the key distinguishing features of C# compared to
+      // other languages like JavaScript. The designers of C# believed they
+      // can help developers avoid common software bugs by enforcing data
+      // types. You'll see this concept unfold as you learn more about C#.
+
+      // Variables in C#
+      // A variable is a named storage location in memory that can hold a value.
+      // Variables must be declared with a specific data type (as shown above)
+      // and conform to camelCase naming conventions.
+      string myVariable = "This is a variable";
     }
   }
 }
